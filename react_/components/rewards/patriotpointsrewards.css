@@ -1,0 +1,23 @@
+.patriotpoints-points-redeem-button {
+  border-radius: 15px;
+  height: 50px;
+}
+.patriotpoints-points-text {
+  font-size: 50px;
+}
+.patriotpoints-inactive-button {
+  background-color: #a2a2a2;
+}
+
+.rewardshistory-offcanvas {
+  width: 45% !important;
+}
+
+.rewardshistory-table-header {
+  background-color: #5c2563;
+  color: white;
+}
+.rewardsdonutchart-height-width {
+  height: 320px;
+  max-width: 320px;
+}

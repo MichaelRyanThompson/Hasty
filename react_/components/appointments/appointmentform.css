@@ -1,0 +1,22 @@
+.appointmentform-control {
+  margin-top: 10px;
+  height: 48px;
+  border: 2px solid #eee;
+  border-radius: 10px;
+}
+.appointmentform-control:focus {
+  box-shadow: none;
+  border: 2px solid #039be5;
+}
+.appointmentform-agree-text {
+  font-size: 12px;
+}
+.appointmentform-terms {
+  font-size: 12px;
+  text-decoration: none;
+  color: #039be5;
+}
+.appointmentform-error {
+  margin-top: 0.5rem;
+  color: red;
+}
